@@ -1,6 +1,8 @@
 # minimal_login_ui
 
-A new Flutter project.
+Minimal Login UI Flutter demo project.
+
+![Login ui](https://user-images.githubusercontent.com/116440070/206550094-979b5747-adb0-4ace-87ec-b365cc3dd58e.png)
 
 ## Getting Started
 
